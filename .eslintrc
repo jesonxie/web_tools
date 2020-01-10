@@ -1,0 +1,29 @@
+{
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "globals": {
+    "app": true,
+    "CONST": true,
+    "describe": true,
+    "it": true,
+    "assert": true,
+    "L": true
+  },
+  "rules": {
+    "no-unused-vars": "warn",
+    "indent": [
+      2,
+      4,
+      {
+        "SwitchCase": 1
+      }
+    ],
+    "no-bitwise": "off",
+    "no-multi-spaces": "off",
+    "key-spacing": "off",
+    "eqeqeq": "off",
+    "no-return-assign": "off"
+  }
+}

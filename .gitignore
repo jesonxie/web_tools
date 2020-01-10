@@ -1,0 +1,9 @@
+.idea/
+.settings/
+.project/
+.sublime-project/
+node_modules
+logs
+*.log
+tests
+package-lock.json

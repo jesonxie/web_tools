@@ -1,0 +1,8 @@
+{
+  "name": "web_tools",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}

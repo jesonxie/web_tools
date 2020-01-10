@@ -1,0 +1,7 @@
+node_modules
+coverage
+benchmark
+fixtures
+.vscode
+.idea
+docs
